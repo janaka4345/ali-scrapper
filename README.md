@@ -1,0 +1,1 @@
+# python scrapy project for ali express to get products and store details
